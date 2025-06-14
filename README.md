@@ -1,10 +1,10 @@
 ![alt text](https://github.com/pat-ricktu/pat-ricktu/blob/main/lol.png?raw=true)
 
-A computer chip is made out of sand
-Keyboard warrior 165 WPM
-Jitter mouse clicker at 12 CPS
-Bug squasher 100% success
-If you didn't fix it, it ain't fixed
+A computer chip is made out of sand  
+Keyboard warrior 165 WPM  
+Jitter mouse clicker at 12 CPS  
+Bug squasher 100% success  
+If you didn't fix it, it ain't fixed  
 
 <!--
 **pat-ricktu/pat-ricktu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
