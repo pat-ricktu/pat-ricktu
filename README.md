@@ -1,4 +1,4 @@
-![alt text](https://github.com/pat-ricktu/pat-ricktu/main/lol.png?raw=true)
+![alt text](https://github.com/pat-ricktu/pat-ricktu/blob/main/lol.png?raw=true)
 
 <!--
 **pat-ricktu/pat-ricktu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
